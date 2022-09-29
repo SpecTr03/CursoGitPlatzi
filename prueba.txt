@@ -1,5 +1,0 @@
-Esta es una prueba
-Mejor solo numeros pares
-246810
-
-probando rm
